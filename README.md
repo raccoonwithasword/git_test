@@ -1,1 +1,2 @@
-This is raccoonwithasword's first git project. So excited and whatnot.
+This is raccoonwithasword's first git project!
+This trash panda is excited.
